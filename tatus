@@ -1,0 +1,139 @@
+[33mcommit 99698bab01b28cb8682b9c854f14cc1406406de5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: elodieOC <elodie.ollivier.pro@gmail.com>
+Date:   Thu Aug 29 17:53:08 2019 +0200
+
+    reset test
+
+[33mcommit f5e4400fb7f6ad1baa1b478f826ab18c5bf5024a[m
+Author: elodieOC <elodie.ollivier.pro@gmail.com>
+Date:   Thu Aug 29 17:52:12 2019 +0200
+
+    test ribbon timeout
+
+[33mcommit 5170b89ccbb6c8261549274fa3d7725c5a550371[m
+Merge: ba50aeb 141bee5
+Author: elodieOC <elodie.ollivier.pro@gmail.com>
+Date:   Thu Aug 29 17:50:41 2019 +0200
+
+    Merge branch 'master' of https://github.com/elodieOC/bibliotheque-config-server-repo
+
+[33mcommit ba50aebc5ba75f2395a760248ff773f4af339433[m
+Author: elodieOC <elodie.ollivier.pro@gmail.com>
+Date:   Thu Aug 29 17:49:22 2019 +0200
+
+    test hystrix timeout
+
+[33mcommit 141bee5f1a61001541d916ba5899ed9f568e9293[m
+Author: elodieOC <45627171+elodieOC@users.noreply.github.com>
+Date:   Wed Aug 14 10:49:22 2019 +0200
+
+    Update zuul-server.properties
+
+[33mcommit cb3366fb1442347351b9e291348782f4f3e22398[m
+Author: elodieOC <45627171+elodieOC@users.noreply.github.com>
+Date:   Wed Aug 14 10:48:46 2019 +0200
+
+    Update zuul-server.properties
+
+[33mcommit 7630b96331b435fe11f849e413721a0cb5ff67a4[m
+Author: elodieOC <elodie.ollivier.pro@gmail.com>
+Date:   Wed Aug 7 10:40:05 2019 +0200
+
+    ajout de la db dans mailing.properties
+
+[33mcommit 5ed39f735755bb676e9d049b95e33b03fb87f6b3[m
+Author: elodieOC <elodie.ollivier.pro@gmail.com>
+Date:   Wed Aug 7 09:22:48 2019 +0200
+
+    ajout de mailing.properties
+
+[33mcommit b575254c662ca935f6703678730b2ae75cca157c[m
+Author: elodieOC <elodie.ollivier.pro@gmail.com>
+Date:   Tue Aug 6 17:07:02 2019 +0200
+
+    modif books.properties
+
+[33mcommit 7738b5902cca24385f069229c44c6706fde1ac51[m
+Author: elodieOC <elodie.ollivier.pro@gmail.com>
+Date:   Tue Aug 6 16:16:43 2019 +0200
+
+    ajout properties batch initialize schema dans microservice-books
+
+[33mcommit fba6ed6e6c4f5fb83e464780395d558cdfb8bc8c[m
+Author: elodieOC <elodie.ollivier.pro@gmail.com>
+Date:   Tue Aug 6 16:08:54 2019 +0200
+
+    ajout properties batch dans microservice-books
+
+[33mcommit 4dac0f5c29dd96dbea7b4258777347c666ce0976[m
+Author: elodieOC <elodie.ollivier.pro@gmail.com>
+Date:   Tue Aug 6 11:33:02 2019 +0200
+
+    ajout spring security dans zuul-server.properties
+
+[33mcommit 598123f1cc4e56491f7432d4328d156f58c1c982[m
+Author: elodieOC <elodie.ollivier.pro@gmail.com>
+Date:   Mon Aug 5 16:49:38 2019 +0200
+
+    added feign properties to ui
+
+[33mcommit 179993840d6fa2b5b728de871c6fece03e1e2f4d[m
+Merge: 1371a4a f73bd85
+Author: elodieOC <elodie.ollivier.pro@gmail.com>
+Date:   Mon Aug 5 16:33:34 2019 +0200
+
+    changing of prperties
+
+[33mcommit 1371a4a26e84c623fa7c3d8d282330719a02d1ce[m
+Author: elodieOC <elodie.ollivier.pro@gmail.com>
+Date:   Mon Aug 5 16:31:44 2019 +0200
+
+    changing of prperties
+
+[33mcommit f73bd85338689c478063c682561e2bbc8105279c[m
+Author: elodieOC <45627171+elodieOC@users.noreply.github.com>
+Date:   Fri Aug 2 15:42:08 2019 +0200
+
+    Update microservice-clientui.properties
+
+[33mcommit 898371a74e774e60e6b2dac7aca2e5499625c22e[m
+Author: elodieOC <45627171+elodieOC@users.noreply.github.com>
+Date:   Fri Aug 2 15:38:36 2019 +0200
+
+    Update microservice-clientui.properties
+
+[33mcommit b54e2a35ff81119aeb01884cbd0ebdb7fec4ac67[m
+Author: elodieOC <45627171+elodieOC@users.noreply.github.com>
+Date:   Fri Aug 2 15:31:45 2019 +0200
+
+    Update microservice-books.properties
+
+[33mcommit 39821b7e807126ade3f7ba0afc5726e2de640b6f[m
+Author: elodieOC <elodie.ollivier.pro@gmail.com>
+Date:   Fri Aug 2 15:18:10 2019 +0200
+
+    ajout eureka aux properties
+
+[33mcommit bb9ef186cd80b410fe6756bacfa502f2828dec35[m
+Author: elodieOC <elodie.ollivier.pro@gmail.com>
+Date:   Fri Aug 2 14:59:44 2019 +0200
+
+    modif eureka properties
+
+[33mcommit 9a08d7aac964c0f2111b4393f1c18a4451724733[m
+Author: elodieOC <elodie.ollivier.pro@gmail.com>
+Date:   Fri Aug 2 14:19:06 2019 +0200
+
+    ajout eureka.properties
+
+[33mcommit e022b4008f1bdb9aee7ce3c9c24ad8cdbe58d645[m
+Author: elodieOC <elodie.ollivier.pro@gmail.com>
+Date:   Fri Aug 2 13:57:02 2019 +0200
+
+    ajout zuul properties
+
+[33mcommit e5314510f616878cbdd74e739f6e7ae19c4b3981[m
+Author: elodieOC <elodie.ollivier.pro@gmail.com>
+Date:   Fri Aug 2 12:00:59 2019 +0200
+
+    first commit
